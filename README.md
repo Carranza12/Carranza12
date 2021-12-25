@@ -14,21 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡I am a full stack javascript developer⚡
+⚡I am a full stack Web Developer ⚡
 Estudiante de la carrera de Ingenieria de las Tecnologias de la informacion y comunicacion en la Universidad Autonoma de Coahuila.
 tecnico en Servicios computacionales e informaticos egresado del Bachillerato tecnico industrial de la Laguna (BATEIL).
 Desarrollador de Software ( Sitios web, Aplicaciones de escritorio, Inteligencia Artificial, Apps Moviles.
 
-MIS SKILSS
-html5
-css3
-VanillaJS
-bootstrap
-React
-NodeJs
-MongoDB
-MYSQL
+Mi Stack: TypeScript, Php, MySQL
+Frameworks:Angular, Laravel,Eloquent(ORM), 
+herramientas: Git,MySQLWorkbench,npm
+Hosting: githubPages,Heroku,Firebase
 
-TOOLS---
-VS CODE
-GIT
+stack secundario:
+Angular,SpringBoot,JPA
