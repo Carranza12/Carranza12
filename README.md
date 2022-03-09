@@ -14,14 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡Soy desarrollador web Full Stack ⚡
+⚡Soy desarrollador web  ⚡
 Estudiante de la carrera de Ingenieria de las Tecnologias de la informacion y comunicacion en la Universidad Autonoma de Coahuila.
 tecnico en Servicios computacionales e informaticos egresado del Bachillerato tecnico industrial de la Laguna (BATEIL).
-Desarrollador de Software(Servicios web, API Rest, consumo de API en el frontend, Sistemas web completos).
+Desarrollador de paginas web, enfocado en backend.
 
-😄Mi Stack: Angular + Spring Boot
-😄Lenguajes: Typescript, Javascript, java 
-😄herramientas: Git,MySQLWorkbench,npm,maven
+😄Mi Stack: Angular,Spring Boot,Mysql
+😄Lenguajes: Typescript, Javascript, java,c# 
 😄Bases de Datos: MySQL
 
-Actual aprendiz de Docker,kubernetes y AWS
