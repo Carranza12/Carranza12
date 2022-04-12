@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡Soy desarrollador web  ⚡
-Estudiante de la carrera de Ingenieria de las Tecnologias de la informacion y comunicacion en la Universidad Autonoma de Coahuila.
-tecnico en Servicios computacionales e informaticos egresado del Bachillerato tecnico industrial de la Laguna (BATEIL).
-Desarrollador de paginas web, enfocado en backend.
+Desarrollador web full stack, desde el frontend asi como el backend y temas de produccion y deploy, un gusto que estes por aca!
 
-😄Mi Stack: Angular,Spring Boot,Mysql
-😄Lenguajes: Typescript, Javascript, java,c# 
-😄Bases de Datos: MySQL
+😄Angular, Node Js, Mysql, MongoDB
 
