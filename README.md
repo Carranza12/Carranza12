@@ -1,18 +1,10 @@
-# Francisco Carranza - Perfil de GitHub
-
-<div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Francisco%20Carranza&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20de%20Software&descAlignY=51&descAlign=62)
-
-</div>
-
 ## 👋 ¡Hola! Soy Francisco Carranza
 
 <div align="center">
 
-**🚀 Ingeniero de Software con más de 3 años de experiencia**
+**💻 Software Engineer con más de 3 años de experiencia**
 
-*Especializado en desarrollo full stack, aplicaciones móviles híbridas y agentes de IA*
+*Especializado en desarrollo de software funcional, arquitecturas escalables y soluciones tecnológicas innovadoras*
 
 </div>
 
@@ -20,13 +12,13 @@
 
 ## 🧑‍💻 Acerca de Mí
 
-Soy un desarrollador apasionado con más de 3 años de experiencia creando soluciones tecnológicas innovadoras. Me especializo en el **diseño, análisis, desarrollo, implementación y monitorización** de soluciones de software, y en la **integración de IA**.
+Soy un **Software Engineer** apasionado con más de 3 años de experiencia diseñando y desarrollando **sistemas de software completos** y **arquitecturas escalables**. Me especializo en crear soluciones tecnológicas end-to-end: desde el **desarrollo de aplicaciones web modernas** y **optimización de sistemas**, hasta la **integración de servicios** y **implementación de soluciones con IA**. Domino tanto **frontend** como **backend development**, **despliegues en la nube** y **automatización de procesos**, lo que me permite entregar productos robustos con una visión integral de ingeniería.
 
 Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vida:
 - 🏃‍♂️ **Correr** para mantenerme activo
 - 👨‍👩‍👧‍👦 **Tiempo de calidad** con amigos y familia  
 - 📱 **Crear contenido** para aportar valor en redes sociales
-- 🤖 **Estudiar** las últimas tendencias en inteligencia artificial
+- 🤖 **Estudiar** las últimas tendencias en inteligencia artificial y software
 
 ---
 
@@ -40,13 +32,18 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### 🎨 Frontend
+### 🎨 Frontend Development
 <p>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS"/>
   <img src="https://img.shields.io/badge/Angular_Material-607D8B?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS"/>
 </p>
 
 ### ⚙️ Backend
@@ -75,12 +72,13 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
   <img src="https://img.shields.io/badge/n8n-FF6D6D?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-### 🤖 Inteligencia Artificial
+### 🤖 Inteligencia Artificial & Soluciones Automatizadas
 <p>
   <img src="https://img.shields.io/badge/VoltAgent-9146FF?style=for-the-badge&logoColor=white" alt="VoltAgent"/>
   <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Vertex AI"/>
   <img src="https://img.shields.io/badge/Firebase_Genkit-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Genkit"/>
   <img src="https://img.shields.io/badge/Mastra_AI-FF4785?style=for-the-badge&logoColor=white" alt="Mastra AI"/>
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 </p>
 
 </div>
@@ -97,6 +95,7 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 - 👨‍🏫 Lidero y asesoro a otros desarrolladores, asegurando buenas prácticas y calidad técnica
 - 🏗️ Análisis, diseño, desarrollo, pruebas y supervisión de plataformas y agentes inteligentes
 - 📈 Garantizo soluciones escalables y alineadas con objetivos estratégicos
+- 👥 Actúo como intermediario entre el cliente y el producto, asegurando que los clientes logren captar el potencial del producto como customer engineer
 
 ### 💻 **Full Stack Developer** - KöBU  
 **Ene 2023 - Dic 2024**
@@ -105,13 +104,14 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 - 🔄 Transformación de procesos de negocio en soluciones tecnológicas innovadoras
 - 🎯 Adaptación de soluciones a necesidades operativas específicas de cada cliente
 
-### 🎨 **Frontend Developer** - Sofnux
+### 🎨 **Frontend Developer** - Sofnux 
 **Sep 2021 - Ene 2023**
 
-- 🖥️ Maquetación de interfaces y implementación de diseños desde Figma
-- 📱 Optimización y responsividad para múltiples dispositivos
-- 🔧 Mejora de experiencia del usuario y procesos de despliegue en la nube
-- 📚 Desarrollo bajo supervisión de líder técnico
+- 🖥️ **Maquetación pixel-perfect** de interfaces y implementación de diseños desde Figma a código
+- 📱 **Desarrollo responsivo** optimizado para múltiples dispositivos y navegadores
+- 🎨 **Mejora continua de UX/UI** y experiencia del usuario final
+- ☁️ Participación en **procesos de despliegue** en la nube
+- � **Fundamentos sólidos** desarrollados bajo supervisión de líder técnico
 
 ---
 
@@ -123,13 +123,56 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 
 ¡Comparto conocimiento y experiencias en desarrollo de software!
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu-canal)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@franciscocarranza8740)
 
-**Algunos de mis videos populares:**
-- 🤖 "Cómo integrar IA en tus aplicaciones web"
-- ⚡ "Angular + NestJS: Full Stack en tiempo récord"
-- 🚀 "Deploy automático con Google Cloud"
-- 💡 "Tips de programación que me hubiera gustado saber antes"
+### 🚀 Algunos Videos Destacados
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <h4>🤖 AGENTES DE IA</h4>
+        <p><em>¿Agentes de IA sin<br>Complicaciones? ¡Framework Clave!</em></p>
+        <a href="https://www.youtube.com/watch?v=Om03tXjDfJs&t=55s">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a><br/>
+        <a href="https://github.com/tu-usuario/agentes-ia">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <h4>🏢 SAAS DESDE CERO</h4>
+        <p><em>Creando Un SaaS<br>Múltiples Clientes</em></p>
+        <a href="https://www.youtube.com/watch?v=HriI8oInVDs&t=415s">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a><br/>
+        <a href="https://github.com/tu-usuario/saas-multicliente">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <h4>🦉 DUOLINGO CLONE</h4>
+        <p><em>DUOLINGO CLONE<br>Angular y SCSS - Parte 1</em></p>
+        <a href="https://www.youtube.com/watch?v=M1my4bvOkhc&t=514s">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a><br/>
+        <a href="https://github.com/tu-usuario/duolingo-clone">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+      <td align="center" width="25%">
+        <h4>⚡ ANGULAR SIGNALS</h4>
+        <p><em>APRENDE SIGNALS<br>Angular 17 - Tutorial</em></p>
+        <a href="https://www.youtube.com/watch?v=LarAUVT2GBg&t=479s">
+          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+        </a><br/>
+        <a href="https://github.com/tu-usuario/angular-signals">
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 </div>
 
@@ -139,11 +182,8 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/francisco-carranza)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@tu-canal)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tu-usuario)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu-usuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-carranza-474836206/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@franciscocarranza8740)
 
 </div>
 
@@ -182,7 +222,7 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 
 <div align="center">
 
-### 💡 "El código es poesía en movimiento, y cada función es una estrofa que cuenta la historia de una solución."
+### 💡 "Mi enfoque está en dar soluciones efectivas a través del software, utilizando todas las herramientas que estén al alcance para crear el mayor impacto posible."
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer)
 
