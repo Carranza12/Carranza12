@@ -1,6 +1,8 @@
-## 👋 ¡Hola! Soy Francisco Carranza
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=Francisco%20Carranza&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=51&descAlign=62)
 
 <div align="center">
+
+## 👋 ¡Hola! Soy Francisco Carranza
 
 **💻 Software Engineer con más de 3 años de experiencia**
 
@@ -111,7 +113,7 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 - 📱 **Desarrollo responsivo** optimizado para múltiples dispositivos y navegadores
 - 🎨 **Mejora continua de UX/UI** y experiencia del usuario final
 - ☁️ Participación en **procesos de despliegue** en la nube
-- � **Fundamentos sólidos** desarrollados bajo supervisión de líder técnico
+- 💪 **Fundamentos sólidos** desarrollados bajo supervisión de líder técnico
 
 ---
 
@@ -135,9 +137,6 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
         <p><em>¿Agentes de IA sin<br>Complicaciones? ¡Framework Clave!</em></p>
         <a href="https://www.youtube.com/watch?v=Om03tXjDfJs&t=55s">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        </a><br/>
-        <a href="https://github.com/tu-usuario/agentes-ia">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center" width="25%">
@@ -145,9 +144,6 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
         <p><em>Creando Un SaaS<br>Múltiples Clientes</em></p>
         <a href="https://www.youtube.com/watch?v=HriI8oInVDs&t=415s">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        </a><br/>
-        <a href="https://github.com/tu-usuario/saas-multicliente">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center" width="25%">
@@ -155,9 +151,6 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
         <p><em>DUOLINGO CLONE<br>Angular y SCSS - Parte 1</em></p>
         <a href="https://www.youtube.com/watch?v=M1my4bvOkhc&t=514s">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        </a><br/>
-        <a href="https://github.com/tu-usuario/duolingo-clone">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
       <td align="center" width="25%">
@@ -165,9 +158,6 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
         <p><em>APRENDE SIGNALS<br>Angular 17 - Tutorial</em></p>
         <a href="https://www.youtube.com/watch?v=LarAUVT2GBg&t=479s">
           <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-        </a><br/>
-        <a href="https://github.com/tu-usuario/angular-signals">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
         </a>
       </td>
     </tr>
@@ -189,36 +179,6 @@ Cuando no estoy programando, disfruto mantener un equilibrio saludable en mi vid
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 🏆 Logros y Certificaciones
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=tu-usuario&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)
-
-</div>
-
----
-
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 <div align="center">
 
